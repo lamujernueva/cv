@@ -7,14 +7,23 @@ Espero trabajar en un lugar donde se valore el trabajar y aprender, con equipos 
 
 
 # Formación académica
-instituto profesional inacap
+### Instituto profesional Inacap
 Analista Programador 2019-2022 <br>
-• Práctica de múltiples lenguajes (Java, JavaScript, SQL, html, CSS).
-• Conducente al título de Ingeniería en informática.
-• Desarrollo de estrategias para soluciones de software ágil y robusto.
-• Actitud proactiva, innovadora, colaborativa.
-
-
+• Práctica de múltiples lenguajes (Java, JavaScript, SQL, html, CSS). <br>
+• Conducente al título de Ingeniería en informática. <br>
+• Desarrollo de estrategias para soluciones de software ágil y robusto. <br>
+• Actitud proactiva, innovadora, colaborativa. <br>
+<br>
+<br>
+<br>
+### Universidad de Chile
+Periodismo 2009-2010 <br>
+• Creación de contenido atrapante en variedad de formatos. <br> 
+• Habilidades en lecto-escritura y también en audiovisual. <br>
+• Comunicación efectiva e inclusiva. <br>
+<br>
+<br>
+ 
 
 
 
