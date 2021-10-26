@@ -8,7 +8,7 @@ Espero trabajar en un lugar donde se valore el trabajar y aprender, con equipos 
 
 # Formación académica
 instituto profesional inacap
-Analista Programador 2019-2022
+Analista Programador 2019-2022 <br>
 • Práctica de múltiples lenguajes (Java, JavaScript, SQL, html, CSS).
 • Conducente al título de Ingeniería en informática.
 • Desarrollo de estrategias para soluciones de software ágil y robusto.
