@@ -4,9 +4,15 @@ Programadora con pasión por el aprendizaje constante, el mejoramiento de las co
 Activista con interés en la justicia social, la inclusión de mujeres a las TICs y la protección de los datos de los usuarios.
 Espero trabajar en un lugar donde se valore el trabajar y aprender, con equipos de trabajo dinámicos y ambiente LBTGQ+ amoroso.
 
-### Markdown
 
 
+# Formación académica
+instituto profesional inacap
+Analista Programador 2019-2022
+• Práctica de múltiples lenguajes (Java, JavaScript, SQL, html, CSS).
+• Conducente al título de Ingeniería en informática.
+• Desarrollo de estrategias para soluciones de software ágil y robusto.
+• Actitud proactiva, innovadora, colaborativa.
 
 
 
