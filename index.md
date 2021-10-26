@@ -1,14 +1,17 @@
-## Ignacia Taré
-You can use the [editor on GitHub](https://github.com/lamujernueva/cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Ignacia Taré Albornoz
+## Estudiante de Analista Programador/Ciencia de datos
+Programadora con pasión por el aprendizaje constante, el mejoramiento de las cosas, la tecnología, la solución a problemas, la comunión y discusión de ideas, con la esperanza de generar tecnología que impacte en las sociedades.
+Activista con interés en la justicia social, la inclusión de mujeres a las TICs y la protección de los datos de los usuarios.
+Espero trabajar en un lugar donde se valore el trabajar y aprender, con equipos de trabajo dinámicos y ambiente LBTGQ+ amoroso.
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+
+
+
+
+
 
 # Header 1
 ## Header 2
