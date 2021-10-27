@@ -41,8 +41,7 @@ Espero trabajar en un lugar donde se valore el trabajar y aprender, con equipos 
 - Cocina y coctelería
 - Edición de audio, video e imagen
 - WordPress
-<br>
-<br>
+
 # Historial Laboral
 ### Ministerio de Ciencias, Gob de Chile
 **Programadora, ciencia de datos, 2021 (Duración de tres meses)** <br>
@@ -50,7 +49,7 @@ Espero trabajar en un lugar donde se valore el trabajar y aprender, con equipos 
 • Automatización procesos del repositorio de base de datos del Covid19. <br>
 • Uso de Python, creación de pipelines y GitHub actions. <br>
 <br>
-###Consejo de la Cultura, Gob de Chile
+### Consejo de la Cultura, Gob de Chile
 **Ganadora Fondart Regional, llamado 2019**
 •"Palestina en Chile: Historias y sabores en el Valle del Aconcagua" (2021). <br>
 • Libro en formato impreso: Idea, investigación, reporteo, escritura, edición. <br>
