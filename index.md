@@ -45,7 +45,7 @@ Espero trabajar en un lugar donde se valore el trabajar y aprender, con equipos 
 <br>
 # Historial Laboral
 ### Ministerio de Ciencias, Gob de Chile
-**Programadora, ciencia de datos, 2021 (Duración de tres meses) ** <br>
+**Programadora, ciencia de datos, 2021 (Duración de tres meses)** <br>
 • Trabajo en conjunto del Ministerio de Salud junto al Ministerio de la Ciencia, Tecnología, Conocimiento e Innovación. <br>
 • Automatización procesos del repositorio de base de datos del Covid19. <br>
 • Uso de Python, creación de pipelines y GitHub actions. <br>
