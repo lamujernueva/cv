@@ -4,6 +4,7 @@ Programadora con pasión por el aprendizaje constante, el mejoramiento de las co
 Activista con interés en la justicia social, la inclusión de mujeres a las TICs y la protección de los datos de los usuarios.
 Espero trabajar en un lugar donde se valore el trabajar y aprender, con equipos de trabajo dinámicos y ambiente LBTGQ+ amoroso.
 
+![Image](https://github.com/lamujernueva/cv/blob/gh-pages/Captura%20de%20Pantalla%202021-10-26%20a%20la(s)%2021.29.33.png)
 
 
 # Formación académica
@@ -34,7 +35,6 @@ Espero trabajar en un lugar donde se valore el trabajar y aprender, con equipos 
 - CSS
 - Git y GitHub
 - Java
-<br>
 - Office
 - Español Nativo
 - Inglés Avanzado
@@ -45,31 +45,42 @@ Espero trabajar en un lugar donde se valore el trabajar y aprender, con equipos 
 <br>
 # Historial Laboral
 ### Ministerio de Ciencias, Gob de Chile
+**Programadora, ciencia de datos, 2021 (Duración de tres meses) ** <br>
+• Trabajo en conjunto del Ministerio de Salud junto al Ministerio de la Ciencia, Tecnología, Conocimiento e Innovación. <br>
+• Automatización procesos del repositorio de base de datos del Covid19. <br>
+• Uso de Python, creación de pipelines y GitHub actions. <br>
+<br>
+###Consejo de la Cultura, Gob de Chile
+**Ganadora Fondart Regional, llamado 2019**
+•"Palestina en Chile: Historias y sabores en el Valle del Aconcagua" (2021). <br>
+• Libro en formato impreso: Idea, investigación, reporteo, escritura, edición. <br>
+• Memoria histórica y cultura local; fenómeno migración. <br>
+<br>
+### Podcast 'Maula'
+**Podcast sobre películas y otros fenómenos culturales 2018-2021**<br>
+• Nominado a "Podcast del año" por diario La Tercera, 2019.<br>
+• Ideas, pauta, grabación, locución, edición de sonido y posterior publicación.<br>
+• Conducción junto al escritor, guionista y crítico cultural Daniel Villalobos.<br>
+<br>
+### Diario Las últimas noticias
+**Periodista freelancer para Revista M (Revista de mujeres) 2010-2018**<br>
+• Revista femenina de carácter feminista.<br>
+• Reportajes, crónicas, columnas de opinión.<br>
+• Trabajo bajo presión e intensos deadlines.<br>
+<br>
+### Canal Mega
+**Guionista de la teleserie "Chico Reality", 2014**<br>
+• Transmitida en la señal web del canal. <br>
+• Encargada de los personajes femeninos. <br>
+
+### Japi Jane
+**Tienda de "Juguetes para adultos", 2009-2014** <br>
+• Branding, contenidos, asesoría en diseño y plan de prensa. <br>
+• Ayudar a introducir un nuevo concepto en los medios para nuestra sociedad. <br>
+
+#Encuéntrame en
+El teléfono: **(569) 9586-5669** 
+Correo electrónico: lamujernueva@hotmail.com
+Github: @_lamujernueva_
 
 
-
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lamujernueva/cv/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
