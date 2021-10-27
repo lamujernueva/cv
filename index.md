@@ -3,7 +3,6 @@
 Programadora con pasión por el aprendizaje constante, el mejoramiento de las cosas, la tecnología, la solución a problemas, la comunión y discusión de ideas, con la esperanza de generar tecnología que impacte en las sociedades.
 Activista con interés en la justicia social, la inclusión de mujeres a las TICs y la protección de los datos de los usuarios.
 Espero trabajar en un lugar donde se valore el trabajar y aprender, con equipos de trabajo dinámicos y ambiente LBTGQ+ amoroso.
-
 ![Image](https://github.com/lamujernueva/cv/blob/gh-pages/foto.png)
 
 
