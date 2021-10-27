@@ -7,23 +7,44 @@ Espero trabajar en un lugar donde se valore el trabajar y aprender, con equipos 
 
 
 # Formación académica
-## Instituto profesional Inacap
-### Analista Programador 2019-2022 <br>
+### Instituto profesional Inacap
+**Analista Programador 2019-2022**<br> 
 • Práctica de múltiples lenguajes (Java, JavaScript, SQL, html, CSS). <br>
 • Conducente al título de Ingeniería en informática. <br>
 • Desarrollo de estrategias para soluciones de software ágil y robusto. <br>
 • Actitud proactiva, innovadora, colaborativa. <br>
 <br>
-<br>
-<br>
-## Universidad de Chile
-### Periodismo 2009-2010 <br>
+### Universidad de Chile
+**Periodismo 2009-2010**<br> 
 • Creación de contenido atrapante en variedad de formatos. <br> 
 • Habilidades en lecto-escritura y también en audiovisual. <br>
 • Comunicación efectiva e inclusiva. <br>
 <br>
 <br>
- 
+# Formación adicional
+### Escuelita chilota de ciencias de datos 
+**Ciencias de datos, 2020 -2021** <br>
+• Uso de Python para analizar fenómenos de data. <br>
+• Desarrollo de proyectos personales sobre votación femenina en Chile, análisis de textos y scrapping. <br>
+<br>
+<br>
+# Destrezas
+- Python 
+- HTML
+- CSS
+- Git y GitHub
+- Java
+<br>
+- Office
+- Español Nativo
+- Inglés Avanzado
+- Cocina y coctelería
+- Edición de audio, video e imagen
+- WordPress
+<br>
+<br>
+# Historial Laboral
+### Ministerio de Ciencias, Gob de Chile
 
 
 
