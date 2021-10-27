@@ -78,9 +78,9 @@ Espero trabajar en un lugar donde se valore el trabajar y aprender, con equipos 
 • Branding, contenidos, asesoría en diseño y plan de prensa. <br>
 • Ayudar a introducir un nuevo concepto en los medios para nuestra sociedad. <br>
 
-#Encuéntrame en
-El teléfono: **(569) 9586-5669** 
-Correo electrónico: lamujernueva@hotmail.com
-Github: @_lamujernueva_
+# Encuéntrame en
+El teléfono: **(569) 9586-5669** <br>
+Correo electrónico: lamujernueva@hotmail.com <br>
+Github: @_lamujernueva_ <br>
 
 
